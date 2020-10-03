@@ -11,9 +11,9 @@ Moai /ˈmoʊ.aɪ/ provides competitive intelligence by tracking the unique regul
 
 Additionally, the following the metrics are captured:
 
-* **Regulatory code**: Gain insight into how often a website is updated
+* **Regulatory code**: Gain insights into how often a website is updated
 * **HTTPS**: Sadly, many website infrastructures do not provide HTTPS which [provides no data security](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure) to its visitors
-* :man: DMD Audience Identity Manager (AIM) identifies healthcare professionals
+* :man: DMD Audience Identity Manager (AIM) identifies healthcare professionals.
 * :trophy: [MozRank](https://moz.com/learn/seo/mozrank) quantifies link popularity and is Moz’s version of Google’s classic PageRank algorithm
 * :link: Moz total number of links (juice-passing or not, internal or external) of the final redirected url (http://drug.com > https://www.drug.com)
 * :iphone: Google PageSpeed Insights mobile speed score
